@@ -49,6 +49,6 @@ public class D3SwitchCalculator {
             ch = mahmut.next().charAt(0);
 
         }
-        System.out.println("O kadar kod yazdik kullancan tabi amk");
+        System.out.println("O kadar kod yazdik kullancan tabi lalalalelele");
     }
 }
